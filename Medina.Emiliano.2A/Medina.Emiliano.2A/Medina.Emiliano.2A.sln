@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medina.Emiliano.2A", "Medina.Emiliano\Medina.Emiliano.2A.csproj", "{38F0D89E-AD18-4E5C-844D-039EF057A891}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaList", "PruebaList\PruebaList.csproj", "{62BA93F1-A3DE-435B-BE9B-0CBEB1D2D19C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{38F0D89E-AD18-4E5C-844D-039EF057A891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38F0D89E-AD18-4E5C-844D-039EF057A891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38F0D89E-AD18-4E5C-844D-039EF057A891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BA93F1-A3DE-435B-BE9B-0CBEB1D2D19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BA93F1-A3DE-435B-BE9B-0CBEB1D2D19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BA93F1-A3DE-435B-BE9B-0CBEB1D2D19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BA93F1-A3DE-435B-BE9B-0CBEB1D2D19C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\PruebaList\bin\Debug\PruebaList.exe.config
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\PruebaList\bin\Debug\PruebaList.exe
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\PruebaList\bin\Debug\PruebaList.pdb
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\PruebaList\obj\Debug\PruebaList.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\PruebaList\obj\Debug\PruebaList.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\PruebaList\obj\Debug\PruebaList.exe
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\PruebaList\obj\Debug\PruebaList.pdb

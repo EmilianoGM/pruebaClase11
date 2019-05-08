@@ -37,14 +37,18 @@ namespace Medina.Emiliano
 
     public static bool operator ==(Perro perroUno, Perro perroDos)
     {
-      if(perroUno.Nombre.Equals(perroDos.Nombre) && perroUno.Raza.Equals(perroDos.Raza) && perroUno.edad == perroDos.edad)
+      bool retorno = false;
+      if(Object.Equals(perroUno, null) && Object.Equals(perroDos, null))
       {
-        return true;
-      }
-      else
+        retorno = true;
+      } else if (!(Object.Equals(perroUno, null) && Object.Equals(perroDos, null)))
       {
-        return false;
+        if (perroUno.Nombre.Equals(perroDos.Nombre) && perroUno.Raza.Equals(perroDos.Raza) && perroUno.edad == perroDos.edad)
+        {
+          retorno = true;
+        }
       }
+      return retorno;
     }
     public static bool operator !=(Perro perroUno, Perro perroDos)
     {

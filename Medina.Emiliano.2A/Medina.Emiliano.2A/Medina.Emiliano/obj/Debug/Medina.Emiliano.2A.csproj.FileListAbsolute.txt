@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\ob
 C:\Users\alumno\Desktop\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\obj\Debug\Medina.Emiliano.exe
 C:\Users\alumno\Desktop\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\obj\Debug\Medina.Emiliano.pdb
 C:\Users\alumno\Desktop\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\obj\Debug\Medina.Emiliano.2A.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\bin\Debug\Medina.Emiliano.exe.config
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\bin\Debug\Medina.Emiliano.exe
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\bin\Debug\Medina.Emiliano.pdb
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\obj\Debug\Medina.Emiliano.2A.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\obj\Debug\Medina.Emiliano.2A.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\obj\Debug\Medina.Emiliano.exe
+C:\Users\mcmrb\Desktop\Simulacro\Medina.Emiliano.2A\Medina.Emiliano.2A\Medina.Emiliano\obj\Debug\Medina.Emiliano.pdb
